@@ -3,7 +3,7 @@ import React from 'react';
 import Hero from '../components/Hero';
 import FeaturedTickets from '../components/FeaturedTickets';
 import { Ticket } from '../types';
-import { ArrowRight, Shield, CreditCard, HelpCircle } from 'lucide-react';
+import { ArrowRight, Shield, CreditCard, HelpCircle, Search, Train } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Index = () => {
