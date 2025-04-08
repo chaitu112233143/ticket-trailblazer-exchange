@@ -175,5 +175,3 @@ const Index = () => {
 };
 
 export default Index;
-
-import { Search } from 'lucide-react';
